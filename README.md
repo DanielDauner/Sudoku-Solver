@@ -7,4 +7,5 @@ The program consists of two classes
 
 The GUI is simple to use. Additional algorithms can be added.
 
-Note: This project was created for fun during a rainy saturday afternoon. It is not perfect and has room for improvement. 
+### Note: 
+This project was created for fun during a rainy saturday afternoon. It is not perfect and has room for improvement. 
