@@ -1,5 +1,5 @@
 # Sudoku-Solver
-Simple program that solves Sudokus via backpropagation. 
+Simple program that solves Sudokus via backtracking. 
 
 The program consists of two classes
 - GUI.java: Graphical user interface to type in the numbers
